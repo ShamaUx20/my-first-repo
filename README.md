@@ -1,28 +1,29 @@
-# This is a large heading
+# Shama Prasad
 
-## This is a smaller heading
+### my Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Columbia, Maryland, USA.
+I moved to this nice city in this year 2020, a new resident of Maryland.
+Columbia is a suburban city in greater Baltimore.
 
-- This is
-- an unordered 
-- list
+### My fields of interest
 
-1. This is
-2. an ordered
-3. list
+I waste most of my time in
+- work. I am a Product Owner in a SAFe Agile team/train.
+- learning. for example this useless coursera course on Unix Workbench
+- watching youtube Political videos. 'masthmaga.com' 'India Defence updates' 'Hindustan ki awaz' 'ThePrint'
+- Practicing Carnatic Music
+- Building silly gadgets: drone which did not fly; a real armateur wound motor; so on
+- picking on my dear wife
+- playing with my grandson
 
-Here is 'some code' in the middle of a sentance.
+### regularly watched youTube video channels
+1. [masthmaga](www.masthmaga.com)
+2. [India Defence Updates](https://www.youtube.com/channel/UCWUFwrNEs9MnFTc8LcQh8Pg)
+3. [Hindustan ki Awaz](https://youtube.com)
 
-```
-This is 
-a block 
-of code
-```
+### favorite TV channel
+paid channel streaming: ** CBS All Access ** ** Amazon Prime **
 
-Here is how you make [a link] (https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### emojis supported by markup
+*visit* [emoji](www.emoji-cheat-sheet.com)
